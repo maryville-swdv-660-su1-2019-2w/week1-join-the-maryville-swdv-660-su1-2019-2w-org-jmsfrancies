@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['SWDV660.py'],
-             pathex=['C:\\Users\\HPelite800G1\\SWDV-660-Week1'],
+             pathex=['C:\\Users\\HPelite800G1\\Documents\\GitHub\\week1-join-the-maryville-swdv-660-su1-2019-2w-org-jmsfrancies\\SWDV-660-Week1'],
              binaries=[],
              datas=[],
              hiddenimports=[],
